@@ -15,7 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `After Cloning run npm i`
+### After Cloning run
+ ### `npm i`
 
 ### `npm start`
 
