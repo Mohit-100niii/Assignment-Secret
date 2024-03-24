@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Tech Stack
-   1. React.js
+   1. React.Js
    2. SASS CSS
       
 ## Available Scripts
