@@ -1,0 +1,41 @@
+.more-menu-list
+  display: grid
+  position: absolute
+  list-style-type: none
+  text-align: start
+  background-color: #495057
+  padding: 0px 15px 10px 15px
+  border-radius: 5px
+  z-index: 100 /* Ensure dropdown appears on top of other content */
+  margin-top:33px
+  width: fit-content
+ 
+
+@media (max-width: 450px)
+  .more-menu-list
+    left: 65%
+
+    
+    
+
+.more-menu-list.clicked
+  display: none
+  pointer-events: none 
+
+.more-menu-list .more-li-items
+  color: white
+  text-decoration: none
+  padding: 5px
+  display: block /* Ensure links fill their parent li */
+  transition: background-color 0.3s ease /* Add smooth transition for color change */
+
+.more-menu-list .more-li-items:hover
+  background-color: #6c757d /* Change background color on hover */
+  border-radius:5px
+
+.more-menu-list li
+  cursor: pointer
+  border-radius: 5px
+  margin-bottom: 5px /* Adjust spacing between list items */
+  font-size: 16px
+  margin-top:3px
