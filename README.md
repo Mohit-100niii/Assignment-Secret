@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Demo Link - https://avattar-mohitsoni.netlify.app/
 
 ### Screenshots
-![Uploading image.png…]()
+![image](https://github.com/Mohit-100niii/Avataar-assignment/assets/84673402/3a10dfbb-df20-4bc4-b96d-1d94cb02103a)
+
 
 ## Available Scripts
 
