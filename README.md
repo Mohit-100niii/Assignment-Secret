@@ -11,6 +11,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://github.com/Mohit-100niii/Avataar-assignment/assets/84673402/79855ee9-50d8-40a3-8fc5-0dd71e59bee0)
 
 
+
+## Tech Stack
+   1. React.js
+   2. SASS CSS
+      
 ## Available Scripts
 
 In the project directory, you can run:
