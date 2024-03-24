@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Screenshots
 ![image](https://github.com/Mohit-100niii/Avataar-assignment/assets/84673402/3a10dfbb-df20-4bc4-b96d-1d94cb02103a)
 
-### Resposniveness Check
+### Resposniveness Check - YA PASS
 ![image](https://github.com/Mohit-100niii/Avataar-assignment/assets/84673402/79855ee9-50d8-40a3-8fc5-0dd71e59bee0)
 
 
